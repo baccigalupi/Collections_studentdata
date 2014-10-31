@@ -1,3 +1,8 @@
+# This gives a syntax error :(
+# Try running this locally with ruby student_info.rb
+
+# Also, spaces and indents pretty close to great. Be careful that everything lines up right. Important for communication
+
 student_info = [
 {
     firstname: "John",
